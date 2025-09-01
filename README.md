@@ -157,11 +157,26 @@ npm install --legacy-peer-deps
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a pull request
+We welcome contributions! Please follow our comprehensive contribution and code review process:
+
+1. **Review Guidelines**: Read our [Code Review Guidelines](./CODE_REVIEW.md) and [Contributing Guide](./CONTRIBUTING.md)
+2. **Fork the repository** 
+3. **Create a new branch**: `git checkout -b feature/your-feature`
+4. **Self-Review**: Use the [Code Review Checklist](./CODE_REVIEW.md) to review your own changes
+5. **Write Tests**: Ensure your changes include appropriate tests
+6. **Commit your changes**: `git commit -m 'Add some feature'`
+7. **Push to the branch**: `git push origin feature/your-feature`
+8. **Open a pull request** using our [PR template](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)
+
+### Code Quality Standards
+This project maintains high standards for:
+- 🎯 **Functional Correctness**: Code must solve the intended problem
+- 🏗️ **Code Quality**: Readable, maintainable, and well-structured code
+- 🔒 **Security**: Secure coding practices and vulnerability prevention
+- ⚡ **Performance**: Optimized for 3D rendering and cross-browser compatibility
+- ✅ **Testing**: Comprehensive test coverage for new features
+
+See our [Code Review Guidelines](./CODE_REVIEW.md) for detailed standards.
 
 ## 📄 License
 
